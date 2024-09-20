@@ -1,4 +1,4 @@
-![Alt text](gitcover.svg")
+![Alt text](https://github.com/wanchanlin/wanchanlin/gitcover.svg")
 
 ## Hi there!  This Joyce 👋
 
