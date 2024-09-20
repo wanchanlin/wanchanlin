@@ -1,5 +1,5 @@
 ![Alt text](https://github.com/wanchanlin/wanchanlin/gitcover.svg")
-
+<img title="a title" alt="Alt text" src="/images/gitcover.svg">
 ## Hi there!  This Joyce 👋
 
  
