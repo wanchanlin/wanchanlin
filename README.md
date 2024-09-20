@@ -1,3 +1,5 @@
+![Alt text](gitcover.svg")
+
 ## Hi there!  This Joyce 👋
 
  
