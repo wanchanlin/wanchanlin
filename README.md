@@ -1,10 +1,9 @@
 <img title="a title" alt="Alt text" src="gitcover.svg">
-## Hi there!  This Joyce 👋
 
  
 <p align='center'>
   <a href="https://www.linkedin.com/in/wanchanlin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://wanchanlin.webflow.io/"><img src="https://img.shields.io/badge/portfolio-%23D14836.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="http://wanchanlin.webflow.io/"><img src="https://img.shields.io/badge/Design portfolio-%23D14836.svg?&style=for-the-badge&logoColor=white" /></a>
 
 </p>
 
